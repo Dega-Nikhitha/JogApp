@@ -1,10 +1,7 @@
 # JogApp
 1.Project Structure
-📁 Full Folder Overview
-css
-Copy
-Edit
 jog-tracker/
+├── pom.xml
 ├── src/
 │   └── main/
 │       ├── java/
@@ -23,7 +20,8 @@ jog-tracker/
 │               ├── script.js
 │               ├── history.html
 │               └── history.js
-├── pom.xml
+
+
 ✅ 2. 🔧 Technologies Used
 Part	Tech Used
 Backend	Spring Boot (Java), PostgreSQL
